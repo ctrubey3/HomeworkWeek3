@@ -1,0 +1,45 @@
+ul li:nth-child(3) {
+    color: red;
+}
+
+ul li:nth-child(4) {
+    color: red;
+}
+
+ol li:nth-child(2) {
+    font-size: 24px;
+}
+
+ol li:nth-child(4) {
+    font-size: 24px;
+}
+
+
+div{
+    background-color: red;
+    width: 100px;
+    height: 100px;
+}
+
+div:nth-of-type(2){
+    color: white;
+}
+
+
+
+button:hover {
+    background-color: blue;
+
+}
+
+button:active {
+    height: 200px;
+    width: 150px;
+}
+
+
+
+
+
+
+
